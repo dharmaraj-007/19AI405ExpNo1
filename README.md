@@ -30,10 +30,13 @@ To find the PEAS description for the given AI problem and develop an AI agent.&e
 **STEP 3:** Developing the PEAS description:(PEAS description is developed by the performance, environment, actuators, and sensors in an agent.)<br>
 **STEP 4:** Implementing the AI agent:(Treat unhealthy patients in each room. And check for the unhealthy patients in random room.)<br>
 **STEP 5:** Measure the performance parameters: (For each treatment performance incremented, for each movement performance decremented)<br><br>
-**Developed By: Dharmaraj s**<br>
-**Register No: 212222240025**
+
 ### Program:
 ```Python
+
+Developed By: Dharmaraj S
+Register No: 212222240025
+
 import random
 class VacuumCleanerAgent:
     def __init__(self): # Initialize the agent's state (location and dirt status)
